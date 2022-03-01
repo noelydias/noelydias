@@ -1,5 +1,5 @@
-### Olá! Eu sou a Noely Araujo, estudante de programação! 👋
-- 🔭Atualmente trabalho como analista de sistemas 
+### Bem vindo! Eu sou a Noely Araujo, estudante de programação! 👋
+- 🔭Atualmente trabalho como analista de Infraestrutura, atuando em sistemas bancários.
 - 🌱 Estou estudando as seguintes tecnologias: C#, ASP.NET Core, WebAPI, SQL Server, Swagger, Javascript, Bootstrap
 - 😄 Pronouns: ela/dela
  
